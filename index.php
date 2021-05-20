@@ -1,11 +1,11 @@
 <?php
 /*
-	* Plugin Name: Add-ons Schema Rank Math
-	* Plugin URL: https://www.diletec.com.br
-	* Description: Modifica o schema
-	* Version: 0.1
-	* Author: Diletec
-	* Author URI: https://www.diletec.com.br
+    * Plugin Name: Add-ons Schema Rank Math
+    * Plugin URL: https://www.diletec.com.br
+    * Description: Modifica o schema
+    * Version: 0.1
+    * Author: Diletec
+    * Author URI: https://www.diletec.com.br
     * Requires at least: 4.4
     * Requires PHP: 7.0
     * Rank Math SEO requires at least: 1.0.60
